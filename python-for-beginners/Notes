@@ -17,3 +17,29 @@ String function
 Value.lower()  -------------> makes the input all lower case. 
 Example: 
 Country = input (‘enter name’).lower() 
+----------------------------------------------
+example for easy code:
+
+ahmed= {'first': 'ahmed', 'last': 'nasr'}
+eman = {'first': 'eman', 'last': 'khalil'}
+people = [ahmed, eman]
+print(people)
+
+#instead of
+
+ahmed ={}                    
+ahmed['first']='ahmed'       
+ahmed['last']='nasr'                                   
+eman={}                      
+eman['first']='eman'         
+eman['last']='khalil'                                     
+people = []                  
+people.append(ahmed)
+people.append(eman)         
+print(people)
+-----------------------------
+
+
+
+
+-------------------------------

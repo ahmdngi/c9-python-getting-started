@@ -1,0 +1,11 @@
+Dictionaries 
+key/value pairs storage order not guaranteed 
+
+person ={'first' : 'Chris'}    ---------->    first is key and chris is the item
+
+
+however list is 
+zero based index
+storage order is guaranteed
+
+    

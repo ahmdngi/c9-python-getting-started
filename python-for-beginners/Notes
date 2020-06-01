@@ -1,11 +1,19 @@
 Dictionaries 
 key/value pairs storage order not guaranteed 
-
 person ={'first' : 'Chris'}    ---------->    first is key and chris is the item
-
-
-however list is 
+-------------------
+list is 
 zero based index
 storage order is guaranteed
-
-    
+----------------
+Presenter = name[  :3 ] ------>meaning up to 3 
+-----------------
+Array has to be numeric with the same data type  
+List can store any data type and mix 
+ -----------------------------
+ Notice that ‘honour_roll’ stands alone no need for true or false because it’s either true or false by itself 
+---------------------------
+String function  
+Value.lower()  -------------> makes the input all lower case. 
+Example: 
+Country = input (‘enter name’).lower() 
